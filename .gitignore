@@ -13,3 +13,9 @@ testes/libs/all
 
 temp
 lua
+
+*.vcxproj
+*.vcxproj.filters
+
+bin/*
+bin-int/*
